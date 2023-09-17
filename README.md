@@ -7,8 +7,6 @@ Sports jacket retailer
 
 Design and development of an e-commerce site for an online sports jacket retailer. The website is responsive, user-friendly, and it complies with WCAG and accesibility requirements. A database to store the jackets was created on Wordpress. The products displayed on the site are fetched dinamically by making a call to the WordPress API.
 
-## [Link to live project](https://rainy-days-noroff-project.netlify.app)
-
 ## Site architecture
 
 - Home page
